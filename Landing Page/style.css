@@ -1,0 +1,47 @@
+.sosmed {
+    padding: 0;
+    margin: 0;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(235, 213, 255);
+}
+
+#about {
+    padding-top: 10rem;
+    padding-bottom: 6rem;
+}
+
+#portofolio {
+    padding-top: 5rem;
+    padding-bottom: 6rem;
+    background-color: rgb(235, 213, 255);
+}
+
+#portofolio h2 {
+    padding-bottom: 3rem;
+}
+
+#contact {
+    padding-bottom: 7rem;
+}
+
+#top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    font-family: system-ui;
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+}
+
+.footer>p {
+    padding: 0;
+    margin: 0;
+}
